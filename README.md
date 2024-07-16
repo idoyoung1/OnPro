@@ -107,7 +107,7 @@ VPN(가상 사설 통신망)
 # 📝 프로젝트 진행 관리: Notion
 
 ### 🔗 URL
-https://sonrey.notion.site/OnPro-6c0932066f1b446d8ddd98ecb4fdbea5?pvs=4
+https://www.notion.so/idoyoung1/OnPro-e07d4ae6ff584e789dcd5c6fef9836df
 
 <img src="https://github.com/rey265/OnPro/blob/main/onpro%20image/Untitled.png">
 
